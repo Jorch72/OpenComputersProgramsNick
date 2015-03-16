@@ -1,4 +1,4 @@
-# Nick's Open Computers Programs, and other files..
+# Nick's Open Computers Programs
 A home for my oc lua scripts. [Open Computers](http://ocdoc.cil.li/), is a minecraft mod that adds programmable computers. This is a repository of lua scripts for that mod.
 
 ## Rotarycraft Machine Controllers
